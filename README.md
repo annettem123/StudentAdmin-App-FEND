@@ -40,8 +40,10 @@ DAY 2 (3/28/22):
     In IntelliJ IDEA, Backend Project created
 	        models, classes, etc.
 
-2.  Project 2 (Wayfarer) used as guideline
+2.  Project Employee Management Application used as guideline (https://www.youtube.com/watch?v=m3_dJSqkFzU&t=20s)
+
     If stuck, review Spring Lesson, google, or submit an issue.
+    
 3.  Database created in PostgreSQL
 
 DAY 3 (3/29/22):
